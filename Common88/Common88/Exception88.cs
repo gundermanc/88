@@ -1,5 +1,5 @@
 ﻿//----------------------------------------------------------------------- 
-// <copyright file="Exception88.cs" company="Gundersoft"> 
+// <copyright file="Exception88.cs"> 
 //     Copyright (c) Christian Gunderman. All rights reserved. 
 // </copyright> 
 // <author>Christian Gunderman</author>

@@ -107,6 +107,7 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Diagnostics\CodeContractExtensions.cs" />
     <Compile Include="Exception88.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Content Include="Properties\Common88.rd.xml" />

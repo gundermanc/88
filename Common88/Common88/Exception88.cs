@@ -5,7 +5,7 @@
 // <author>Christian Gunderman</author>
 //-----------------------------------------------------------------------
 
-namespace Uniscript
+namespace Common88
 {
     using System;
 
